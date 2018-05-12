@@ -1,0 +1,30 @@
+_repo: The-Scientific-Basis-of-National-ProgressIncluding-that-of-Morality_34771
+_version: 0.1.0
+covers:
+- cover_type: generated
+  image_path: cover.png
+creator:
+  author:
+    agent_name: Gore, George
+    alias: Gore, G. (George)
+    birthdate: 1826
+    deathdate: 1909
+    gutenberg_agent_id: '37212'
+    url: http://www.gutenberg.org/2009/agents/37212
+description: ''
+gutenberg_issued: '2010-12-28'
+gutenberg_type: Text
+identifiers:
+  gutenberg: '34771'
+  lccn: '11031741'
+language: en
+publisher: Project Gutenberg
+rights: Public domain in the USA.
+rights_url: http://creativecommons.org/about/pdm
+subjects:
+- !lcsh 'Science'
+- !lcsh 'Ethics'
+- !lcsh 'Progress'
+- !lcc 'Q'
+title: The Scientific Basis of National Progress, Including that of Morality
+url: http://www.gutenberg.org/ebooks/34771
