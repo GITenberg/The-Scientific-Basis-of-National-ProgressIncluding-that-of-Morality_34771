@@ -12,6 +12,8 @@ creator:
     gutenberg_agent_id: '37212'
     url: http://www.gutenberg.org/2009/agents/37212
 description: ''
+edition_identifiers:
+  edition_id: http://www.gutenberg.org/ebooks/34771#The-Scientific-Basis-of-National-ProgressIncluding-that-of-Morality
 gutenberg_issued: '2010-12-28'
 gutenberg_type: Text
 identifiers:
